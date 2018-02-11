@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Jill's Library Marketing Place
 
 You can use the [editor on GitHub](https://github.com/jh9xp/marketing-libraries/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
